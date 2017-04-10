@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0781_TabContentFactory</string>
+    <string name="text_tab">Вкладка создана при помощи LayoutInflater</string>
+    <string name="tag_1">Tag 1</string>
+    <string name="tag_2">Tag 2</string>
+    <string name="title_tab_1">Вкладка 1</string>
+    <string name="title_tab_2">Вкладка 2</string>
+    <string name="text_handler">Вкладка создана вручную</string>
+</resources>
